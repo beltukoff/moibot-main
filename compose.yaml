@@ -1,0 +1,9 @@
+#services:
+#  postgres:
+#    image: 'postgres:latest'
+#    environment:
+#      - 'POSTGRES_DB=TelegaBotDb'
+#      - 'POSTGRES_PASSWORD=155400'
+#      - 'POSTGRES_USER=postgres'
+#    ports:
+#      - '5432'
